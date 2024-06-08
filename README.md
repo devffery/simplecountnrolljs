@@ -9,7 +9,7 @@ The current value of the counter is shown in real-time, providing a visual repre
 The third button, "reset", resets the value of the counter.
 
 *Die Roller:*
-The die roller feature simulates rolling a six-sided die. When the "Roll Die" button is clicked, a random number between 1 and 6 is generated and displayed to the user. 
+The die roller feature simulates rolling a six-sided die. When the "Roll" button is clicked, a random number between 1 and 6 is generated and displayed to the user. 
 This functionality mimics the experience of rolling a physical die, providing a fun and interactive element to the application.
 
 Purpose:
